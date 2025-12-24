@@ -1,0 +1,26 @@
+Model_Name,Architecture_Type,Year_Created,Parameter_Count_M,Training_Data_Size_TB,Top1_Accuracy_%,Inference_Time_ms,Memory_GB,Paper_Citations,Developer
+AlexNet,CNN,2012,60,0.0014,63.3,10,0.24,124000,Alex Krizhevsky
+VGG16,CNN,2014,138,1.2,74.4,75,0.5,98000,Oxford University
+ResNet50,CNN,2015,25,1.2,76.2,80,0.1,125000,Microsoft Research
+InceptionV3,CNN,2015,23,1.2,78.8,90,0.15,85000,Google
+MobileNetV2,CNN,2018,3.4,1.2,72.0,30,0.014,45000,Google
+EfficientNetB0,CNN,2019,5.3,1.2,77.1,40,0.02,32000,Google
+ViT-Base,Vision Transformer,2020,86,14.3,81.8,120,0.33,28000,Google
+Swin Transformer,Vision Transformer,2021,88,14.3,83.5,150,0.35,22000,Microsoft
+ConvNeXt,Modern CNN,2022,88,14.3,84.0,110,0.34,15000,Facebook AI
+GPT-2,Transformer,2019,1500,40,NA,350,12,45000,OpenAI
+GPT-3,Transformer,2020,175000,570,NA,2000,350,89000,OpenAI
+GPT-4,Transformer,2023,1800000,1000,NA,5000,2800,65000,OpenAI
+BERT-Base,Transformer,2018,110,16,NA,50,0.44,120000,Google
+T5-3B,Transformer,2019,3000,750,NA,400,11,35000,Google
+Llama-2-7B,Transformer,2023,7000,2000,NA,300,14,18000,Meta
+Gemini Ultra,Multimodal,2023,1200000,10000,NA,8000,5600,12000,Google
+CLIP,Multimodal,2021,150,400,NA,80,0.6,25000,OpenAI
+DALL-E 2,Generative,2022,3500,650,NA,1200,14,18000,OpenAI
+Stable Diffusion,Generative,2022,890,5.8,NA,800,10,31000,Stability AI
+YOLOv8,Object Detection,2023,11,0.8,53.9,15,0.04,8500,Ultralytics
+U-Net,Segmentation,2015,31,0.05,NA,45,0.12,58000,University of Freiburg
+AlphaFold2,Protein Folding,2020,93,0.5,NA,3000,1.8,42000,DeepMind
+AlphaGo,Reinforcement,2016,50,0.03,NA,5000,0.8,32000,DeepMind
+ChatGPT-3.5,Conversational,2022,175000,570,NA,800,350,NA,OpenAI
+Midjourney V5,Image Generation,2023,5200,240,NA,1500,21,NA,Midjourney
