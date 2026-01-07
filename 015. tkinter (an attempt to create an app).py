@@ -22,3 +22,5 @@ def createWindow(): #create a window
 
 if __name__ == "__main__":
     createWindow()
+
+#tkinter is fun and stuff, but I first need to do vectorization, and for this I need to understand the CNN generator. Only then I should add Tkinter shit.
